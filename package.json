@@ -11,11 +11,9 @@
     "url": "https://github.com/moises717/storybook-components"
   },
   "release": {
-    "branches": {
-      "main": {
-        "published": true
-      }
-    }
+    "branches": [
+      "main"
+    ]
   },
   "files": [
     "dist",
